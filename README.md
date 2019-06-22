@@ -2,4 +2,4 @@
 
 # test. task 1
 
-https://krylya.github.io/test-1/
+https://krylya.github.io/test-2/
